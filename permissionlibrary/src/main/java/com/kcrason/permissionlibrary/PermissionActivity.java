@@ -12,6 +12,7 @@ import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
+import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.view.Window;
 
@@ -22,7 +23,7 @@ import java.util.List;
  * Created by KCrason on 2017/8/17.
  */
 
-public class PermissionActivity extends Activity {
+public class PermissionActivity extends AppCompatActivity {
 
     private final static int PERMISSION_REQUEST_CODE = 0x01;
 

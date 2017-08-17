@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         >
         <activity android:name=".PermissionActivity"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar"></activity>
+            android:theme="@style/NoTitleTranslucentTheme"></activity>
     </application>
 
 </manifest>
