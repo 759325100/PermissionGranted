@@ -6,7 +6,6 @@ android6.0以上权限处理
 
 ---
 
-项目地址：[https://github.com/KCrason/PermissionGranted.git](https://github.com/KCrason/PermissionGranted.git)
 项目演示：
 ![示例演示](http://upload-images.jianshu.io/upload_images/1860505-4d4b41b451905bff.gif?imageMogr2/auto-orient/strip)
 
